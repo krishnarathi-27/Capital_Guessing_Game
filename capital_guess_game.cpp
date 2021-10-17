@@ -8,10 +8,10 @@ int main()
 {
     srand(time(NULL));
 
-    string array[28] = {"AndhraPradesh", "ArunachalPradesh", "Assam", "Bihar", "Chhatisgarh", "Goa", "Gujarat", "Haryana", "HimachalPradesh",
-                        "Jharkhand", "Karnataka", "Kerala", "MadhyaPradesh", "Maharashtra", "Manipur", "Meghalya", "Mizoram", "Nagaland",
-                        "Odisha", "Punjab", "Rajasthan", "Sikkim", "TamilNadu", "Telangana", "Tripura", "UttarPradesh", "Uttarkhand",
-                        "WestBengal"};
+    string array[28] = {"Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhatisgarh", "Goa", "Gujarat", "Haryana", "Himachal Pradesh",
+                        "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalya", "Mizoram", "Nagaland",
+                        "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "UttarPradesh", "Uttarkhand",
+                        "West Bengal"};
     string check[28] = {"Amravati", "Itanagar", "Dispur", "Patna", "Raipur", "Panaji", "Gandhinagar", "Chandigarh", "Shimla", "Ranchi",
                         "Bengalaru", "Thiruvananthapuram", "Bhopal", "Mumbai", "Impal", "Shillong", "Aizwal", "Kohima", "Bhubneshwar",
                         "Chandigarh", "Jaipur", "Gangtok", "Chennai", "Hyderabad", "Agartala", "Lucknow", "Dehradun", "Kolkata"};
