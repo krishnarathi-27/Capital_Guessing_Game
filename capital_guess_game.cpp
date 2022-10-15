@@ -1,3 +1,4 @@
+//This is a capital guessing game made with cpp
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
